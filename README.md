@@ -21,11 +21,11 @@ GoVietMart là ứng dụng thương mại điện tử phục vụ nhu cầu mu
 
 |                        Home                        |                        Category                        |                            Product                           |
 | :------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="[assets/govietmart/home.png](https://i.ibb.co/zWN34znH/1172-C9-D1-6824-4-DA4-A67-C-D7-D39-B2-CB36-D-4-5005-c.jpg)" width="220"> | <img src="https://i.ibb.co/xtFZC4Xq/F33-D8-C0-C-418-E-4-B58-A170-09-B79062-EA42-4-5005-c.jpg" width="220"> | <img src="https://i.ibb.co/Z1kt0kZR/E5090849-1932-48-AA-951-C-68322814-D08-C-1-102-o.jpg" width="220"> |
+| <img src="https://i.ibb.co/zWN34znH/1172-C9-D1-6824-4-DA4-A67-C-D7-D39-B2-CB36-D-4-5005-c.jpg" width="220"> | <img src="https://i.ibb.co/xtFZC4Xq/F33-D8-C0-C-418-E-4-B58-A170-09-B79062-EA42-4-5005-c.jpg" width="220"> | <img src="https://i.ibb.co/Z1kt0kZR/E5090849-1932-48-AA-951-C-68322814-D08-C-1-102-o.jpg" width="220"> |
 
 |                        Cart                        |                        Checkout                        |                        Profile                        |
 | :------------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: |
-| <img src="[assets/govietmart/cart.png](https://i.ibb.co/GYb7KDP/364-A8618-6129-40-B7-832-A-3-B0-DD7-BEA10-E-4-5005-c.jpg)" width="220"> | <img src="[assets/govietmart/checkout.png](https://i.ibb.co/b5S3Cc6Q/2-A970-D6-E-FBFB-4-A0-C-9-FF6-A315-D3308005-4-5005-c.jpg)" width="220"> | <img src="[assets/govietmart/profile.png](https://i.ibb.co/rRMGpc11/836-DB0-CE-4-A82-4329-824-E-654-EDDE87-F7-A-4-5005-c.jpg)" width="220"> |
+| <img src="https://i.ibb.co/GYb7KDP/364-A8618-6129-40-B7-832-A-3-B0-DD7-BEA10-E-4-5005-c.jpg" width="220"> | <img src="https://i.ibb.co/b5S3Cc6Q/2-A970-D6-E-FBFB-4-A0-C-9-FF6-A315-D3308005-4-5005-c.jpg" width="220"> | <img src="https://i.ibb.co/rRMGpc11/836-DB0-CE-4-A82-4329-824-E-654-EDDE87-F7-A-4-5005-c.jpg" width="220"> |
 
 ### 💻 Công việc đã thực hiện
 
@@ -46,7 +46,10 @@ GoVietMart là ứng dụng thương mại điện tử phục vụ nhu cầu mu
 
 ### 📲 Ứng dụng
 
-Ứng dụng đã được phát hành công khai trên các nền tảng mobile.
+Ứng dụng đã được phát hành công khai trên Android và iOS.
+
+🟢 Google Play: GoVietMart
+🍎 Apple App Store: GoVietMart
 
 * **Google Play:** GoVietMart
 * **Apple App Store:** GoVietMart
